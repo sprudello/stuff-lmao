@@ -20,3 +20,4 @@
 |gnue|Zitrounsaft|Chiucciu|Ja|
 |(überraschend)|**PREMIUM** _**RIESEN**_ WUNDERKERZEN|*PSSSSST*|Ja|
 |1 Flasch|Prosecco|Metro|Ja|
+|1l|Was für Saft|Chiucciu (Mitarbeiter im Ritz-Carlton)|Ja|
