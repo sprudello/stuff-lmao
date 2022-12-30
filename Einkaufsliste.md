@@ -8,7 +8,7 @@
 |1x|Kirsch|Roffel|Ja|
 |5x|Baguette|Chiucciu||
 |1x|Brennpaste|||
-|||||
+|gnue|Guezli|Hisan.o|Ja|
 |||||
 |||||
 |||||
