@@ -16,7 +16,7 @@
 |1|ChipsPaprika|Spruu|Ja|
 |sovell wes platz het|Mate|spruu|Ja|
 ||El Tony Mate|||
-|||||
-|||||
-|||||
-|||||
+|1 Flasch|Trojka Devil|Chiucciu|Ja|
+|gnue|Zitrounsaft|Chiucciu|Ja|
+|(überraschend)|**PREMIUM** _**RIESEN**_ WUNDERKERZEN|*PSSSSST*|Ja|
+|1 Flasch|Prosecco|Metro|Ja|
