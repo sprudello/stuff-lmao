@@ -1,4 +1,4 @@
-#Einkauf
+# Einkauf
 
 |Menge|Produkt|Zuständigkeit|Vorhanden|
 |-----|-------|-------------|---------|
