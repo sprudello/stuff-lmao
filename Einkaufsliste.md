@@ -13,7 +13,6 @@
 |1|Luft|Luft||
 |1|Devil-Trojka|Chiucciu|Ja|
 |1 - 2l|Apfelsaft|ZY||
-|1|ChipsPaprika|Spruu|Ja|
 |sovell wes platz het|Mate|spruu|Ja|
 ||El Tony Mate|||
 |1 Flasch|Trojka Devil|Chiucciu|Ja|
